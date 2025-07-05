@@ -1,0 +1,11 @@
+ .env.*
+ node_modules
+ dist
+ generated-types
+ .DS_Store
+ .env
+ .env.dev
+ .env.prod
+ .env.test
+ .env.local
+ .env.development
